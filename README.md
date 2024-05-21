@@ -36,9 +36,13 @@ Below are currently supported Opentype features. They are based on my personal i
 
 ### Case-Sensitive Forms `case`
 ![case](preview/case.svg)
-> ¿Qué pasa? **¿**QUÉ PASA? 
+> ¿Qué pasa? **¿** QUÉ PASA? 
 > 
-> ¡Qué pasa! **¡**QUÉ PASA!
+> ¡Qué pasa! **¡** QUÉ PASA!
+>
+> Emet-Selch EMET **-** SELCH
+
+When switching to all caps form, certain punctuation marks, currently `¿`, `¡` and `-` (hyphen), will switch to an alternate form. In this case, they will shift upwards to fit in the lines.
 
 ### Old-style Figures `onum`
 
@@ -51,7 +55,7 @@ Below are currently supported Opentype features. They are based on my personal i
 
 ### Stylistic Alternates `salt`
 ![salt](preview/salt.svg)
-> « ： * & »
+> « : * & »
 
 ## Source
 

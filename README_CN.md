@@ -36,9 +36,13 @@
 
 ### Case-Sensitive Forms `case`
 ![case](preview/case.svg)
-> ¿Qué pasa? **¿**QUÉ PASA? 
+> ¿Qué pasa? **¿** QUÉ PASA? 
 > 
-> ¡Qué pasa! **¡**QUÉ PASA!
+> ¡Qué pasa! **¡** QUÉ PASA!
+>
+> Emet-Selch EMET **-** SELCH
+
+当切换到全部大写模式时，部分标点符号（当前支持`¿`, `¡` and `-` (连字符)）会切换到替代样式，即向上移动以匹配。
 
 ### 旧体数字 `onum`
 
@@ -57,7 +61,7 @@
 
 - 诺弗兰特字母表 [_Encyclopaedia Eorzea III - The World of FINAL FANTASY XIV -_](https://sqex.to/Snrq9) by SQUARE ENIX CO., LTD. | 《艾欧泽亚百科全书III》（暂未公布）
 > 第一版的书中，诺弗兰特字母表的小写字母有印刷错误，官网上有给出修正图片。
-- [@考伦_Kawlen](https://weibo.com/u/2797031154）老师制作的[诺弗兰特文字表](https://weibo.com/2797031154/L3ClPoe87)
+- [@考伦_Kawlen](https://weibo.com/u/2797031154) 老师制作的 [诺弗兰特文字表](https://weibo.com/2797031154/L3ClPoe87)
 
 ## 授权
 
