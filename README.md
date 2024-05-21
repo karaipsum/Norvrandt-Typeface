@@ -1,2 +1,70 @@
-# Norvrandt-Typeface
- 
+# Augmented Norvrandt
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+[中文介绍](README_CN.md)
+
+**Fanmade** typeface, greetings from the First.
+
+A re-work of the Norvrandt alphabets with extended language support and Opentype features.
+
+![Augmented Norvrandt](preview/Title.svg)
+
+## Glyphs Preview
+
+![Alphabets](preview/Glyphs.svg)
+Currently supports:
+- Basic Latin alphabets (A-Z, a-z)
+- Diacritics latin alphabets (🇫🇷, 🇩🇪 and more!)
+- Numbers (0-9)
+- Basic punctuations and symbols
+- and more (…?)
+
+## Kerning Preview
+
+![Kerning](preview/Kerning.svg)
+> _One brings shadow, one brings light_
+> 
+> _Two-toned echoes tumbling through time…_
+> 
+> Excerpt from lyrics of [_Shadowbringers_](https://na.finalfantasyxiv.com/blog/002805.html)
+
+Manually adjusted kerning pairs for improved readability. Toggle "Metrics" setting in your preferred design software to apply.
+
+## Opentype Features Support (default off)
+
+Below are currently supported Opentype features. They are based on my personal idea and interpretation, which I haven't noticed in official arkworks so far. They are **off** by default. You may turn it on for fun.
+
+### Case-Sensitive Forms `case`
+![case](preview/case.svg)
+> ¿Qué pasa? **¿**QUÉ PASA? 
+> 
+> ¡Qué pasa! **¡**QUÉ PASA!
+
+### Old-style Figures `onum`
+
+![onum](preview/OSF.svg)
+> $_**5,789,130,976**_
+
+### Tabular Figures `tnum`
+![tnum](preview/TF.svg)
+> $_**5,789,130,976**_
+
+### Stylistic Alternates `salt`
+![salt](preview/salt.svg)
+> « ： * & »
+
+## Source
+
+- Norvrandt alphabet from [_Encyclopaedia Eorzea III - The World of FINAL FANTASY XIV -_](https://sqex.to/Snrq9) by SQUARE ENIX CO., LTD.
+> The lowercase of the Norvrandt alphabet in the first printing of the book is incorrect. Square Enix posted the content correction on their website.
+- [Norvrandt alphabet reference table](https://weibo.com/2797031154/L3ClPoe87) by [@考伦_Kawlen](https://weibo.com/u/2797031154)
+
+## License
+
+All company, product, and system names mentioned herein are trademarks or registered trademarks of their respective companies.
+
+Augmented Norvrandt is licensed under the [MIT](LICENSE) License.
+
+## Footnote
+
+Feel free to post suggestions and/or any issues here.
