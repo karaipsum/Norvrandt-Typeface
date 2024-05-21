@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="emdash" format="2">
+  <advance width="640"/>
+  <unicode hex="2014"/>
+  <outline>
+    <contour>
+      <point x="45" y="283" type="line"/>
+      <point x="35" y="228" type="line"/>
+      <point x="595" y="228" type="line"/>
+      <point x="605" y="283" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-21 08:44:50 +0000</string>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

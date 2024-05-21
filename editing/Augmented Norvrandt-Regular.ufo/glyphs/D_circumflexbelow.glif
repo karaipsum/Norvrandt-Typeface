@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Dcircumflexbelow" format="2">
+  <advance width="640"/>
+  <unicode hex="1E12"/>
+  <anchor x="259" y="628" name="left"/>
+  <anchor x="543" y="628" name="right"/>
+  <anchor x="575" y="652" name="rightSerif-length"/>
+  <anchor x="350" y="0" name="bottom"/>
+  <anchor x="509.9" y="-29.9" name="bottomSerif-length"/>
+  <anchor x="408" y="640" name="top"/>
+  <anchor x="471" y="623" name="topSerif"/>
+  <outline>
+    <component base="D"/>
+    <component base="circumflexbelowcomb" xOffset="200"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-21 10:56:24 +0000</string>
+    </dict>
+  </lib>
+</glyph>

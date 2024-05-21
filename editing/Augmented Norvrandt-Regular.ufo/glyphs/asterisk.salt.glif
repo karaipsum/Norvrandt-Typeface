@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="asterisk.salt" format="2">
+  <advance width="350"/>
+  <anchor x="175" y="295" name="origin"/>
+  <outline>
+    <component base="asterisk" yOffset="-272"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-21 10:56:24 +0000</string>
+    </dict>
+  </lib>
+</glyph>

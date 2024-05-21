@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Uogonek" format="2">
+  <advance width="640"/>
+  <unicode hex="0172"/>
+  <anchor x="330" y="0" name="bottom"/>
+  <anchor x="278.29564" y="0.16299" name="bottomSerif-length"/>
+  <anchor x="328" y="640" name="top"/>
+  <anchor x="257" y="343" name="topSerif"/>
+  <anchor x="327" y="11" name="left"/>
+  <anchor x="532" y="11" name="right"/>
+  <anchor x="564" y="35" name="rightSerif-length"/>
+  <anchor x="521" y="-5" name="ogonek"/>
+  <outline>
+    <component base="U"/>
+    <component base="ogonek" xOffset="424" yOffset="-18"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-21 10:56:24 +0000</string>
+    </dict>
+  </lib>
+</glyph>

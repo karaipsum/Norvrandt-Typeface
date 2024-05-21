@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_smart.vBar" format="2">
+  <advance width="110"/>
+  <anchor x="55" y="0" name="bottom"/>
+  <anchor x="-13" y="-41" name="bottomSerif-length"/>
+  <anchor x="55" y="640" name="top"/>
+  <anchor x="-36" y="623" name="topSerif"/>
+  <outline>
+    <contour>
+      <point x="110" y="35" type="curve"/>
+      <point x="110" y="678" type="line"/>
+      <point x="110" y="689"/>
+      <point x="107" y="710"/>
+      <point x="101" y="713" type="curve" smooth="yes"/>
+      <point x="93" y="717"/>
+      <point x="-46" y="633"/>
+      <point x="-46" y="623" type="curve" smooth="yes"/>
+      <point x="-46" y="611"/>
+      <point x="0" y="629"/>
+      <point x="0" y="570" type="curve" smooth="yes"/>
+      <point x="0" y="0" type="line"/>
+      <point x="0" y="-27"/>
+      <point x="-36" y="-50"/>
+      <point x="-23" y="-50" type="curve" smooth="yes"/>
+      <point x="-15" y="-50"/>
+      <point x="110" y="0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-21 10:56:24 +0000</string>
+    </dict>
+  </lib>
+</glyph>

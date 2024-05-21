@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ucircumflex" format="2">
+  <advance width="570"/>
+  <unicode hex="00FB"/>
+  <anchor x="238" y="11" name="left"/>
+  <anchor x="480" y="11" name="right"/>
+  <anchor x="512" y="35" name="rightSerif-length"/>
+  <anchor x="292" y="0" name="bottom"/>
+  <anchor x="244.29564" y="0.16299" name="bottomSerif-length"/>
+  <anchor x="302" y="506" name="top"/>
+  <anchor x="223" y="343" name="topSerif"/>
+  <anchor x="474" y="18" name="ogonek"/>
+  <outline>
+    <component base="u"/>
+    <component base="circumflex" xOffset="148" yOffset="-134"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-21 10:56:24 +0000</string>
+    </dict>
+  </lib>
+</glyph>

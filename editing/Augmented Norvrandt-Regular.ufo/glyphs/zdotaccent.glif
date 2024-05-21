@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zdotaccent" format="2">
+  <advance width="580"/>
+  <unicode hex="017C"/>
+  <anchor x="271" y="0" name="bottom"/>
+  <anchor x="79.2" y="-26.2" name="bottomSerif-length"/>
+  <anchor x="282" y="460" name="top"/>
+  <anchor x="35" y="446.2" name="topSerif"/>
+  <anchor x="126" y="11" name="left"/>
+  <anchor x="424" y="11" name="right"/>
+  <anchor x="456" y="35" name="rightSerif-length"/>
+  <outline>
+    <component base="z"/>
+    <component base="dotaccentcomb" xOffset="132" yOffset="-180"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-21 10:56:24 +0000</string>
+    </dict>
+  </lib>
+</glyph>

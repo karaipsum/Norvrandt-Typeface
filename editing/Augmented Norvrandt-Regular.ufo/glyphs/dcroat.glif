@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dcroat" format="2">
+  <advance width="710"/>
+  <unicode hex="0111"/>
+  <anchor x="294" y="0" name="bottom"/>
+  <anchor x="446.9" y="-29.9" name="bottomSerif-length"/>
+  <anchor x="371" y="456" name="top"/>
+  <anchor x="408" y="446.2" name="topSerif"/>
+  <anchor x="432" y="305" name="left"/>
+  <anchor x="630" y="305" name="right"/>
+  <anchor x="662" y="329" name="rightSerif-length"/>
+  <outline>
+    <component base="d"/>
+    <contour>
+      <point x="630" y="333" type="curve"/>
+      <point x="478" y="333" type="line"/>
+      <point x="468" y="333"/>
+      <point x="455" y="356"/>
+      <point x="450" y="356" type="curve" smooth="yes"/>
+      <point x="436" y="356"/>
+      <point x="311" y="278"/>
+      <point x="348" y="278" type="curve"/>
+      <point x="598" y="278" type="line"/>
+      <point x="610" y="278"/>
+      <point x="660" y="313"/>
+      <point x="672" y="329" type="curve" smooth="yes"/>
+      <point x="677" y="336"/>
+      <point x="643" y="333"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-21 10:56:24 +0000</string>
+    </dict>
+  </lib>
+</glyph>

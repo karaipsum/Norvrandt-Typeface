@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.dotaccent" format="2">
+  <advance width="132"/>
+  <outline>
+    <contour>
+      <point x="25" y="790" type="curve" smooth="yes"/>
+      <point x="25" y="776"/>
+      <point x="36" y="777"/>
+      <point x="43" y="769" type="curve" smooth="yes"/>
+      <point x="51" y="762"/>
+      <point x="54" y="750"/>
+      <point x="67" y="750" type="curve" smooth="yes"/>
+      <point x="84" y="750"/>
+      <point x="87" y="764"/>
+      <point x="92" y="769" type="curve" smooth="yes"/>
+      <point x="96" y="773"/>
+      <point x="107" y="780"/>
+      <point x="107" y="795" type="curve" smooth="yes"/>
+      <point x="107" y="810"/>
+      <point x="90" y="810"/>
+      <point x="87" y="814" type="curve" smooth="yes"/>
+      <point x="82" y="819"/>
+      <point x="83" y="834"/>
+      <point x="65" y="834" type="curve" smooth="yes"/>
+      <point x="49" y="834"/>
+      <point x="48" y="816"/>
+      <point x="43" y="812" type="curve" smooth="yes"/>
+      <point x="39" y="808"/>
+      <point x="25" y="801"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-21 04:46:29 +0000</string>
+    </dict>
+  </lib>
+</glyph>

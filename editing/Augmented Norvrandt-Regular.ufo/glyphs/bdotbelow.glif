@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bdotbelow" format="2">
+  <advance width="450"/>
+  <unicode hex="1E05"/>
+  <anchor x="237" y="0" name="bottom"/>
+  <anchor x="67.6" y="-33.6" name="bottomSerif-length"/>
+  <anchor x="125" y="412.9123" name="top"/>
+  <anchor x="34" y="345.15152" name="topSerif"/>
+  <anchor x="106" y="222" name="left"/>
+  <anchor x="333.27274" y="222" name="right"/>
+  <anchor x="365.27274" y="246" name="rightSerif-length"/>
+  <outline>
+    <component base="b"/>
+    <component base="dotbelowcomb" xOffset="87"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-21 10:56:24 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bracketright" format="2">
+  <advance width="400"/>
+  <unicode hex="005D"/>
+  <outline>
+    <contour>
+      <point x="29" y="694" type="line"/>
+      <point x="20" y="694"/>
+      <point x="42" y="659"/>
+      <point x="48" y="659" type="curve"/>
+      <point x="111" y="659" type="line"/>
+      <point x="111" y="320" type="line"/>
+      <point x="221" y="320" type="line"/>
+      <point x="221" y="694" type="line"/>
+    </contour>
+    <component base="_part.bracket" xScale="-1" yScale="-1" xOffset="400" yOffset="640" identifier="35DE231E"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-21 09:02:57 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>35DE231E</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

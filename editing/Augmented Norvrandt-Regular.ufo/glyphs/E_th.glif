@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eth" format="2">
+  <advance width="790"/>
+  <unicode hex="00D0"/>
+  <anchor x="494" y="295" name="left"/>
+  <anchor x="718" y="295" name="right"/>
+  <anchor x="750" y="319" name="rightSerif-length"/>
+  <anchor x="350" y="0" name="bottom"/>
+  <anchor x="509.9" y="-29.9" name="bottomSerif-length"/>
+  <anchor x="408" y="640" name="top"/>
+  <anchor x="471" y="623" name="topSerif"/>
+  <outline>
+    <component base="D"/>
+    <contour>
+      <point x="718" y="323" type="curve"/>
+      <point x="540" y="323" type="line"/>
+      <point x="530" y="323"/>
+      <point x="517" y="346"/>
+      <point x="512" y="346" type="curve" smooth="yes"/>
+      <point x="498" y="346"/>
+      <point x="373" y="268"/>
+      <point x="410" y="268" type="curve"/>
+      <point x="686" y="268" type="line"/>
+      <point x="698" y="268"/>
+      <point x="748" y="303"/>
+      <point x="760" y="319" type="curve" smooth="yes"/>
+      <point x="765" y="326"/>
+      <point x="731" y="323"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-21 10:56:24 +0000</string>
+    </dict>
+  </lib>
+</glyph>

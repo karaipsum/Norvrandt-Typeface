@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macute" format="2">
+  <advance width="580"/>
+  <unicode hex="1E3F"/>
+  <anchor x="86" y="11" name="left"/>
+  <anchor x="465.63638" y="11" name="right"/>
+  <anchor x="497.63638" y="35" name="rightSerif-length"/>
+  <anchor x="308" y="0" name="bottom"/>
+  <anchor x="451.2" y="-26.2" name="bottomSerif-length"/>
+  <anchor x="314" y="436" name="top"/>
+  <anchor x="443" y="466" name="topSerif"/>
+  <outline>
+    <component base="m"/>
+    <component base="acutecomb" xOffset="165" yOffset="-204"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-21 10:56:24 +0000</string>
+    </dict>
+  </lib>
+</glyph>

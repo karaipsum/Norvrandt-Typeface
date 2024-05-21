@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="five.tf" format="2">
+  <advance width="600"/>
+  <anchor x="96" y="0" name="bottom"/>
+  <anchor x="49.2" y="-26.2" name="bottomSerif-length"/>
+  <anchor x="96" y="632.37179" name="top"/>
+  <anchor x="41" y="613.66667" name="topSerif"/>
+  <outline>
+    <component base="five" xOffset="-2" identifier="550F0463"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-21 10:56:24 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>550F0463</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

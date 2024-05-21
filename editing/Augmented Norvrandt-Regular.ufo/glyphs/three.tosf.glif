@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="three.tosf" format="2">
+  <advance width="600"/>
+  <anchor x="428" y="-44" name="bottom"/>
+  <anchor x="381.2" y="-70.2" name="bottomSerif-length"/>
+  <anchor x="428" y="466.04807" name="top"/>
+  <anchor x="373" y="420" name="topSerif"/>
+  <outline>
+    <component base="three.osf" xOffset="58" identifier="0A9628FD"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-21 10:56:24 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>0A9628FD</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Scaron" format="2">
+  <advance width="640"/>
+  <unicode hex="0160"/>
+  <anchor x="315" y="0" name="bottom"/>
+  <anchor x="475.9" y="338.1" name="bottomSerif-length"/>
+  <anchor x="334" y="630" name="top"/>
+  <anchor x="457" y="622.57576" name="topSerif"/>
+  <anchor x="157" y="616" name="left"/>
+  <anchor x="508.57576" y="616" name="right"/>
+  <anchor x="540.57576" y="640" name="rightSerif-length"/>
+  <anchor x="513" y="0" name="ogonek"/>
+  <outline>
+    <component base="S"/>
+    <component base="caron" xOffset="184" yOffset="-10"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-21 10:56:24 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kcommaaccent" format="2">
+  <advance width="560"/>
+  <unicode hex="0137"/>
+  <anchor x="256" y="20" name="bottom"/>
+  <anchor x="14.11865" y="-57.23793" name="bottomSerif-length"/>
+  <anchor x="124" y="358.76924" name="top"/>
+  <anchor x="69" y="276" name="topSerif"/>
+  <anchor x="539" y="131" name="tail"/>
+  <anchor x="128" y="454" name="left"/>
+  <anchor x="392" y="454" name="right"/>
+  <anchor x="424" y="478" name="rightSerif-length"/>
+  <outline>
+    <component base="k"/>
+    <component base="commaaccentcomb" xOffset="126" yOffset="20"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-21 10:56:24 +0000</string>
+    </dict>
+  </lib>
+</glyph>

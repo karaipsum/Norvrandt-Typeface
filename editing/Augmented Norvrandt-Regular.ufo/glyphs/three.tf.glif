@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="three.tf" format="2">
+  <advance width="600"/>
+  <anchor x="447" y="0" name="bottom"/>
+  <anchor x="400.2" y="-26.2" name="bottomSerif-length"/>
+  <anchor x="447" y="623.65384" name="top"/>
+  <anchor x="392" y="603" name="topSerif"/>
+  <outline>
+    <component base="three" xOffset="39" identifier="ADFFE2E7"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-21 10:56:24 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>ADFFE2E7</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
