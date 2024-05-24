@@ -32,15 +32,16 @@
 > 
 > _Two-toned echoes tumbling through time…_
 > 
-> 引自 [《Shadowbringers　-暗影使者-》]https://na.finalfantasyxiv.com/blog/002805.html) 的歌词。
+> 引自 [《Shadowbringers　-暗影使者-》](https://na.finalfantasyxiv.com/blog/002805.html) 的歌词。
 
 手工调节了字偶间距设定以提高可读性。可以在你喜欢的设计软件中选择“原始设定”以启用。
 
 ## Opentype 特性支持（默认关闭）
 
-以下是当前支持的 Opentype 特性。设计上非常主观诠释，官方的材料中目前个人并没有看到类似的设计。所以以下特性均默认**关闭**，可以自行开启玩玩看。
+以下是当前支持的 Opentype 特性。设计上非常主观诠释，官方的材料中目前个人并没有看到类似的设计。所以以下特性大多默认**关闭**，可以自行开启玩玩看。
 
-### Case-Sensitive Forms `case`
+### 区分大小写形式 `case` （默认**开启**）
+
 ![case](preview/case.svg)
 > ¿Qué pasa? **¿** QUÉ PASA? 
 > 
@@ -65,7 +66,7 @@
 
 ## 参考与来源
 
-- 诺弗兰特字母表 [_Encyclopaedia Eorzea III - The World of FINAL FANTASY XIV -_](https://sqex.to/Snrq9) by SQUARE ENIX CO., LTD. | 《艾欧泽亚百科全书III》（暂未公布）
+- 诺弗兰特字母表 [_Encyclopaedia Eorzea III - The World of FINAL FANTASY XIV -_](https://sqex.to/Snrq9) p.52 by SQUARE ENIX CO., LTD. | 《艾欧泽亚百科全书III》（暂未公布）
 > 第一版的书中，诺弗兰特字母表的小写字母有印刷错误，官网上有给出修正图片。
 - [@考伦_Kawlen](https://weibo.com/u/2797031154) 老师制作的 [诺弗兰特文字表](https://weibo.com/2797031154/L3ClPoe87)
 
@@ -74,6 +75,13 @@
 此处提及的所有公司、产品和系统名称均为其各自公司的商标或注册商标。
 
 改良型诺弗兰特文字以 [MIT](LICENSE) License 开源。
+
+## 工程
+
+- [改良型新式艾欧泽亚文字](https://github.com/karaipsum/Eorzean-Typeface)
+- [改良型东方文字](https://github.com/karaipsum/Kugane-Moji)
+- [改良型古代文字](https://github.com/karaipsum/Postulated-Proto-Alphabet)
+- [改良型诺弗兰特文字](https://github.com/karaipsum/Norvrandt-Typeface)
 
 ## 尾声
 

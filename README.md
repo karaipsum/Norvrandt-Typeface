@@ -36,11 +36,11 @@ TL;DR: If you couldn't open or install the font, please use the files with a pre
 
 Manually adjusted kerning pairs for improved readability. Toggle "Metrics" setting in your preferred design software to apply.
 
-## Opentype Features Support (default off)
+## Opentype Features Support
 
-Below are currently supported Opentype features. They are based on my personal idea and interpretation, which I haven't noticed in official arkworks so far. They are **off** by default. You may turn it on for fun.
+Below are currently supported Opentype features. They are based on my personal idea and interpretation, which I haven't noticed in official arkworks so far. They are mostly **off** by default. You may turn it on for fun.
 
-### Case-Sensitive Forms `case`
+### Case-Sensitive Forms `case`  (default **on**)
 ![case](preview/case.svg)
 > ¿Qué pasa? **¿** QUÉ PASA? 
 > 
@@ -65,7 +65,7 @@ When switching to all caps form, certain punctuation marks, currently `¿`, `¡`
 
 ## Source
 
-- Norvrandt alphabet from [_Encyclopaedia Eorzea III - The World of FINAL FANTASY XIV -_](https://sqex.to/Snrq9) by SQUARE ENIX CO., LTD.
+- Norvrandt alphabet from [_Encyclopaedia Eorzea III - The World of FINAL FANTASY XIV -_](https://sqex.to/Snrq9) p.52 by SQUARE ENIX CO., LTD.
 > The lowercase of the Norvrandt alphabet in the first printing of the book is incorrect. Square Enix posted the content correction on their website.
 - [Norvrandt alphabet reference table](https://weibo.com/2797031154/L3ClPoe87) by [@考伦_Kawlen](https://weibo.com/u/2797031154)
 
@@ -74,6 +74,13 @@ When switching to all caps form, certain punctuation marks, currently `¿`, `¡`
 All company, product, and system names mentioned herein are trademarks or registered trademarks of their respective companies.
 
 Augmented Norvrandt is licensed under the [MIT](LICENSE) License.
+
+## Project
+
+- [Augmented Neo-Eorzean](https://github.com/karaipsum/Eorzean-Typeface)
+- [Augmented Far Eastern Script](https://github.com/karaipsum/Kugane-Moji)
+- [Augmented Postulated Proto-Alphabet](https://github.com/karaipsum/Postulated-Proto-Alphabet)
+- [Augmented Norvrandt](https://github.com/karaipsum/Norvrandt-Typeface)
 
 ## Footnote
 
