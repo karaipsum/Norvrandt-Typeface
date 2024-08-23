@@ -26465,6 +26465,8 @@ O
 rr
 ri
 
+V1.011
+- shortened PostScript name
 
 V1.01
 - adjusted exclam `!`, period `.` as per in-game asset, previous one changed to `salt`
@@ -26593,6 +26595,10 @@ key = manufacturerURL;
 value = "https://linktr.ee/catloaf97";
 },
 {
+key = postscriptFontName;
+value = "ANorvrandt-Rg";
+},
+{
 key = sampleTexts;
 values = (
 {
@@ -26603,6 +26609,10 @@ Threescore wasted, ten cast aside
 Four-fold knowing, no end in sight";
 }
 );
+},
+{
+key = vendorID;
+value = CTLF;
 }
 );
 unitsPerEm = 1000;
@@ -26617,5 +26627,5 @@ OV = "119";
 };
 };
 versionMajor = 1;
-versionMinor = 10;
+versionMinor = 11;
 }
